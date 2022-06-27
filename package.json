@@ -4,6 +4,6 @@
     "test": "mocha \"test/**/*Test.js\""
   },
   "devDependencies": {
-    "mocha": "8.0.1"
+    "mocha": "^10.0.0"
   }
 }
